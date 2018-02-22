@@ -42,5 +42,5 @@ int		main(void)
 	print_bits(n);
 	write(1, "\n", 1);
 	print_bits2(n);
-    write(1, "\n", 1);
+	write(1, "\n", 1);
 }

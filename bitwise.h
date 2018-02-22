@@ -2,6 +2,7 @@
 # define BITWISE_H
 
 #include <stdio.h>
+#include <unistd.h>
 
 /*
 ** Trick 1.4
